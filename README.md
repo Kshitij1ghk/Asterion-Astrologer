@@ -1,4 +1,4 @@
-# Astrix - Divine Vedic Astrology AI 🔮
+# Asterion - Divine Vedic Astrology AI 🔮
 
 A sophisticated, AI-powered Vedic and KP Astrology application with a stunning "Divine Interface" aesthetic. Astrix provides personalized astrological readings, chart analysis, and predictions using advanced AI and traditional Vedic astrology principles.
 
